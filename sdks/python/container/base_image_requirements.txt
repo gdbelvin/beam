@@ -38,7 +38,7 @@ oauth2client==3.0.0
 protobuf==3.6.1
 pytz==2018.4
 pyvcf==0.6.8
-pyyaml==3.12
+pyyaml==5.4
 typing==3.6.1
 
 # Setup packages
